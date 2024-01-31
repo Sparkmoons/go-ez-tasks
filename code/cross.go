@@ -5,7 +5,7 @@ import "fmt"
 func code(){
   a := []int{1, 2, 3, 4, 5}
 	b := []int{1, 2, 3, 3, 2, 4, 6, 5, 7}
-  fmt.Printf("Пересечение слайсов: %d\n", f2(a, b))
+  fmt.Printf("Пересечение слайсов: %d\n", Cross(a, b))
 }
 
 func Cross(a, b []int) []int{
