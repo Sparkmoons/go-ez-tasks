@@ -1,13 +1,10 @@
-package code
+## Проверка слайса на уникальность компонентов
 
-import "fmt"
+Дается числовой слайс, необходимо вернуть значение true, если все числа внутри уникальные (без повторов), и false в противном случае.
 
-func code(){
-  a := []int{1, 2, 3, 4, 5}
-	b := []int{1, 2, 3, 3, 2, 4, 6, 5, 7}
-  fmt.Printf("Первый слайс: %t\nВторой слайс: %t\n", UniqCheck(a), UniqCheck(b))
-}
+## Реализация
 
+```go
 func UniqCheck(a []int) bool{
   res := make(map[int]bool)
   for _, i := range a {
@@ -19,3 +16,4 @@ func UniqCheck(a []int) bool{
   }
   return true
 }
+```
