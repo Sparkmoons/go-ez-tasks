@@ -25,6 +25,7 @@ func UniqSl(a, b []int) []int{
   return res  
 }
 ```
+
 ## Пример
 Слайс А = {1, 2, 3, 4, 5}
 
