@@ -2,4 +2,4 @@
 
 Всем привет. Решил создать небольшой репозиторий с задачами, которые могут попасться на интервбю у начинаеющего гофера.
 
-1. [Задача на префикс.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/code/prefix.go)
+1. [Задача на префикс.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/PREFIX.md)
