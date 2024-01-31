@@ -4,7 +4,7 @@
 
 ## Реализация
 ```go
-func Cross(a, b []int) []int{
+func UniqSl(a, b []int) []int{
   
   res := make([]int, 0)
   counter := make(map[int]int)
