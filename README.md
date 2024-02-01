@@ -11,7 +11,7 @@
 7. Вывод номера числа Фибоначчи.
 8. Вывод последовательности чисел Фибоначчи.
 9. Вывод всех возможных комбинаций из букв.
-10. Слияние n каналов в один.
+10. [Слияние n каналов в один.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/MERGE_CH.md)
 11. [Реализация LIFO.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/LIFO.md)
 12. Рандомайзер.
 13. Конвейер чисел.
