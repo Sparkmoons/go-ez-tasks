@@ -2,6 +2,7 @@
 
 Всем привет. Начал изучить Golang и готовиться к собеседованию. Решил создать небольшой репозиторий с задачами и теорией, которая помогла мне. 
 
+1. #### [Вступление](#introduction)
 1. [Задача на префикс.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/PREFIX.md)
 2. [Проверка слайса на уникальность компонентов.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/UNIQUE.md)
 3. [Вывод пересечения двух слайсов.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/CROSS.md)
