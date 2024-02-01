@@ -1,0 +1,1 @@
+https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/LIFO.md
