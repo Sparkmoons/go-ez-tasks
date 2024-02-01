@@ -329,13 +329,33 @@ func f1() func() int {
 }
 ```
 
+## Ключевые слова
+
+1. Break
+2. Case
+3. Chan 
+4. Const
+5. Continue
+6. Default
+7. Defer
+8. Else
+9. Fallthrough
+10. For
+11. Func
+12. Go
+13. Go to
+14. If
+15. Import
+16. Interface
+17. Map
+18. Package
+19. Range
+20. Return 
+21. Select
+22. Struct
+23. Switch
+24. Type
+25. Var
 
 
-Сортировки:
-1. Сортировка пузырьками
-2. Сортировка выбором
-3. Сортировка вставками
-4. Быстрая сортировка
-5. Сортировка слиянием
-6. Встроенная сортировка 
 
