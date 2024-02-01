@@ -4,7 +4,7 @@
 
 
 
-1. #### [Теория](#theory)
+1. #### [Теория](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T.md)
 
 2. #### [Задачи](#tasks)
     1. [Задача на префикс.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/PREFIX.md)
