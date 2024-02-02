@@ -19,9 +19,9 @@
     3. [Вывод пересечения двух слайсов.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/CROSS.md)
     4. [Слияние двух слайсов в уникальный.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/UNIQUE_SL.md)
     5. [Поиск числа в слайсе.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/FIND_NUMB.md)
-    6. Вывод числа Фибоначчи.
-    7. Вывод номера числа Фибоначчи.
-    8. Вывод последовательности чисел Фибоначчи.
+    6. [Вывод числа Фибоначчи.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/FIBNUM.md)
+    7. [Вывод номера числа Фибоначчи.]
+    8. [Вывод последовательности чисел Фибоначчи.]
     9. Вывод всех возможных комбинаций из букв.
     10. [Слияние n каналов в один.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/MERGE_CH.md)
     11. [Слияние двух числовых каналов.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/TWOINTONE.md)
