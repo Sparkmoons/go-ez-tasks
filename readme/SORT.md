@@ -107,7 +107,3 @@ func Sort2(arr []int) []int {
 }
 ```
 
-## Пример
-Пусть a = "abc"
-
-На выходе будет: abc acb bac bca cba cab, 6 комбинаций
