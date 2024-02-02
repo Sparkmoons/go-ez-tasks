@@ -2,7 +2,7 @@
 
 На вход подается слайс чисел, необходимо вернуть его индекс. Он же алгоритм бинарного поиска. Если числа нет  - возвращаем -1.
 
-## Реализация
+## Реализация (двоичный поиск)
 
 ```go
 func FindNumb(array []int, val int) int{
@@ -18,6 +18,19 @@ func FindNumb(array []int, val int) int{
       last = mid - 1
     } else if array[mid] < val {
       first = mid + 1
+    }
+  }
+  return -1
+}
+```
+
+## Реализация (линейный поиск)
+
+```go
+func FindNumb(array []int, val int) int{
+  for i, num == range array {
+    if num == val {
+      return i
     }
   }
   return -1
