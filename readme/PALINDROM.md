@@ -18,4 +18,5 @@ func PalCheck(a string) bool{
 ## Пример
 
 Слово: topot  На выводе получаем: true
+
 Слово: topop  На выводе получаем: false
