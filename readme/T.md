@@ -99,7 +99,7 @@ res = append(res, 3)
 
 //копирование
 sl1 := []int{1, 2, 3}
-sl2 := make([]int, len(sl1), cap(sl2))
+sl2 := make([]int, len(sl1), cap(sl1))
 copy(sl2, sl1)  
 ```
 
