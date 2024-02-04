@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="494" height="344" src="https://github.com/Sparkmoons/go_ez_tasks/blob/main/img/gogogo.png">
+  <img src="https://github.com/Sparkmoons/go_ez_tasks/blob/main/img/gogogo.png">
   <h1>Некоторые данные для подготовки к собеседованию на Golang-разработчика</h1>
 </div>
 
