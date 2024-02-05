@@ -17,3 +17,8 @@ func RevWord(str string) string {
     }
     return strings.Join(reverse, " ")
 }
+
+## Пример
+Входная строка: "Another one on Go"
+
+На выводе получаем: "rehtonA eno no oG"
