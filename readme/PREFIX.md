@@ -2,7 +2,7 @@
 
 Дается слайс из слов, необходимо вывести все слова, которые имеют заданный префикс.
 
-## Реализация
+## Реализация №1
 
 ```go
 func PrefCheck(str []string, p string) []string {
@@ -16,6 +16,23 @@ func PrefCheck(str []string, p string) []string {
       }
     }
     if match {
+      res = append(res, i)
+    }
+  }
+  return res
+}
+```
+
+## Реализация №2
+
+Реализация с использованием функции из пакета strings. 
+
+```go
+import "strings"
+func PrefCheck(str []string, p string) []string {
+  var res []string
+  for _, i := range str {
+    if strings.HasPrefix(i, p) {
       res = append(res, i)
     }
   }
