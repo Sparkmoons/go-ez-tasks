@@ -30,3 +30,4 @@
     14. [Реализация LIFO.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/LIFO.md)
     15. [Рандомайзер.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/RANDOMIZER.md)
     16. [Конвейер чисел.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/CONVEYER.md)
+    17. [Разворот слов в строке.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/REVERSEWORD.md)
