@@ -544,27 +544,27 @@ func f1() func() int {
 
 1. context.Background(): Это базовый контекст, который не имеет сигнала отмены и не содержит значений. Он обычно используется как родительский контекст для создания других контекстов.
 
-ctx := context.Background()
+    ctx := context.Background()
 
 2. context.TODO(): Этот контекст используется, когда конкретный контекст не определен, но нужно передать контекст. Он является альтернативой context.Background().
 
-ctx := context.TODO()
+    ctx := context.TODO()
 
 3. context.WithCancel(parent): Этот контекст предоставляет сигнал отмены через функцию cancel(). При вызове cancel(), все дочерние контексты и горутины, связанные с этим контекстом, получат сигнал об отмене.
 
-ctx, cancel := context.WithCancel(context.Background())
+    ctx, cancel := context.WithCancel(context.Background())
 
 4. context.WithTimeout(parent, timeout): Этот контекст автоматически отменяется после заданного времени timeout. Полезен для установки временных ограничений на выполнение операций.
 
-ctx, cancel := context.Timeout(context.Background(), 2 * time.Second)
+    ctx, cancel := context.Timeout(context.Background(), 2 * time.Second)
 
 5. context.WithDeadline(parent, deadline): Этот контекст автоматически отменяется после указанного времени deadline. Полезен для установки конкретного времени завершения операции.
 
-ctx, cancel := context.WithDeadline(context.Background(), time.Now().Add(2 * time.Second))
+    ctx, cancel := context.WithDeadline(context.Background(), time.Now().Add(2 * time.Second))
 
 6. context.WithValue(parent, key, value): Этот контекст позволяет передавать значения через контекст. Значение хранится в контексте по ключу и может быть извлечено в любой момент.
 
-ctx := context.WithValue(context.Background(), key, "test")
+    ctx := context.WithValue(context.Background(), key, "test")
 
 
 
