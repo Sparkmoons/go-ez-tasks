@@ -39,3 +39,9 @@ func PrefCheck(str []string, p string) []string {
   return res
 }
 ```
+
+## Пример
+Входная строка = {"arbuz", "ararat", "arka", "zaruba", "paza", "liaar"}
+Префикс = "ar"
+
+На выводе получаем: [arbuz ararat arka]
