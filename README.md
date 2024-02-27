@@ -31,3 +31,4 @@
     15. [Рандомайзер.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/RANDOMIZER.md)
     16. [Конвейер чисел.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/CONVEYER.md)
     17. [Разворот слов в строке.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/REVERSEWORD.md)
+    18. [Нахождение цифрового корня числа.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/DROOT.md)
