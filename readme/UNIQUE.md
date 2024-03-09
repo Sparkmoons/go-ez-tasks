@@ -12,7 +12,7 @@ func UniqCheck(a []int) bool{
     if ok {
       return false
     }
-    res[i] := true
+    res[i] = true
   }
   return true
 }
