@@ -22,7 +22,7 @@ func Sort(a []int) []int{
 ```go
 func Sort(a []int) []int{
   for i := 0; i < len(a); i++ {
-    min := j
+    min := i
     for j := i + 1; j < len(a); j++ {
       if a[j] < a[min] {
         min = j
