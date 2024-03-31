@@ -169,6 +169,23 @@ func (p Person) Paint() string {
 
 Интерфейсы лучше описывать на принимающей стороне. 
 
+```go
+type Writer interface {
+    Write(p []byte) (n int, err error)
+}
+// ...
+
+type Reader interface {
+    Read(p []byte) (n int, err error)
+}
+// ...
+
+type Closer interface {
+    Close() error
+}
+// ...
+```
+
 
 ## ООП
 
