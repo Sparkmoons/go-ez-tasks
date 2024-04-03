@@ -367,6 +367,7 @@ m["key1"] = 1
 delete(m, "key1")
 ```
 
+Поиск значения по ключу из map:
 ```go
 m := make(map[string]int) {
     "key1": 1,
