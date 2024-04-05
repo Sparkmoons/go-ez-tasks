@@ -33,3 +33,34 @@ func UniqSl(a, b []int) []int{
 
 На выводе получаем: [1 2 3 4 5 6 7]
 
+## Реализация №2 (Для отсортированных слайсов)
+```go
+func union(A, B []int) []int {
+    res := make([]int, 0)
+
+    i, j := 0, 0
+    for {
+        if A[i] > B[j] {
+            res = append(res, B[j])
+            j++
+        } else if A[i] < B[j] {
+            res = append(res, A[i])
+            i++
+        } else {
+            res = append(res, A[i])
+            i++
+            j++
+        }
+        if i >= len(A) || j >= len(B) {
+            break
+        }
+    }
+    
+    if i < len(A) {
+        res = append(res, A...)
+    } else if j < len(B) {
+        res = append(res, B...)
+    }
+    return res
+}
+```
