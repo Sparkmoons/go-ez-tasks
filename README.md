@@ -12,7 +12,7 @@
 
 
 1. #### [Теория (язык)](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T.md)
-   - [Тред-Процессор](blob/main/readme/T#1)
+   - [Тред-Процессор](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T#1.md)
 3. #### [Теория (надо знать)](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T2.md)
 
 4. #### [Задачи](#tasks)
