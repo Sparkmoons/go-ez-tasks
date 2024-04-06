@@ -42,7 +42,7 @@
    - [TCP + UDP](readme/theory2#3-tcp-+-udp)
    - [DNS](readme/theory2#3-dns)
    - [HTTP/HTTPS](readme/theory2#4-http/https)
-   - [IPv4 + IPv6](readme/theory2#5-ipv4-ipv6)
+   - [IPv4 и IPv6](readme/theory2#5-ipv4-и-ipv6)
    - [NAT](readme/theory2#6-nat)
    - [Виды деплоя](readme/theory2#7-виды-деплоя)
    - [12FA](readme/theory2#8-12fa)
