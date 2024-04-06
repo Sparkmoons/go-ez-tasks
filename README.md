@@ -12,7 +12,7 @@
 
 
 1. #### [Теория (язык)](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T.md)
-   - Тред-Процессор-Горутина
+   - [Тред-Процессор-Горутина](go_ez_tasks/blob/main/readme/T#1.md)
    - Плюсы и минусы
    - Массив и слайс
    - Интерфейсы
