@@ -12,7 +12,31 @@
 
 
 1. #### [Теория (язык)](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T.md)
-   - [Тред-Процессор](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T#1.md)
+   - Тред-Процессор-Горутина
+   - Плюсы и минусы
+   - Массив и слайс
+   - Интерфейсы
+   - ООП
+   - Типы данных
+   - Cчитываем из терминала
+   - strconv
+   - Указатели
+   - Defer
+   - iota
+   - Map
+   - Методы
+   - Mutex
+   - Garbage Collector (GC)
+   - JSON
+   - Каналы
+   - Docker
+   - Recover Panic
+   - Немного про память
+   - Сериализация
+   - Замыкание
+   - Ключевые слова
+   - Каналы и пайпы
+   - Context
 3. #### [Теория (надо знать)](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T2.md)
 
 4. #### [Задачи](#tasks)
