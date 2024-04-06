@@ -39,7 +39,7 @@
    - [Docker](readme/theory1#25-docker)
 2. #### [Теория (надо знать)](readme/theory2)
    - [Процессы и потоки](readme/theory2#1-процессы-и-потоки)
-   - [TCP + UDP](readme/theory2#3-tcp-+-udp)
+   - [TCP и UDP](readme/theory2#3-tcp-и-udp)
    - [DNS](readme/theory2#3-dns)
    - [HTTP/HTTPS](readme/theory2#4-http/https)
    - [IPv4 и IPv6](readme/theory2#5-ipv4-и-ipv6)
