@@ -14,29 +14,29 @@
 1. #### [Теория (язык)](readme/theory1)
    - [Тред-Процессор-Горутина](readme/theory1#1-тред-процессор-горутина)
    - [Плюсы и минусы](readme/theory1#2-плюсы-и-минусы)
-   - [Массив и слайс](readme/theory1#3-массив-и-слайс)
-   - Интерфейсы
-   - ООП
-   - Типы данных
-   - Cчитываем из терминала
-   - strconv
-   - Указатели
-   - Defer
-   - iota
-   - Map
-   - Методы
-   - Mutex
-   - Garbage Collector (GC)
-   - JSON
-   - Каналы
-   - Docker
-   - Recover Panic
-   - Немного про память
-   - Сериализация
-   - Замыкание
-   - Ключевые слова
-   - Каналы и пайпы
-   - Context
+   - [Типы данных](readme/theory1#3-типы-данных)
+   - [Ключевые слова](readme/theory1#4-ключевые-слова)
+   - [ООП](readme/theory1#5-ооп)
+   - [Массив и слайс](readme/theory1#6-массив-и-слайс)
+   - [Интерфейсы](readme/theory1#7-интерфейсы)
+   - [Указатели](readme/theory1#8-указатели)
+   - [Map](readme/theory1#9-map)
+   - [Функции](readme/theory1#10-функции)
+   - [Замыкание](readme/theory1#11-замыкание)
+   - [Defer](readme/theory1#12-defer)
+   - [Методы](readme/theory1#13-методы)
+   - [Mutex](readme/theory1#14-mutex)
+   - [strconv](readme/theory1#15-strconv)
+   - [iota](readme/theory1#16-iota)
+   - [Каналы](readme/theory1#17-каналы)
+   - [JSON](readme/theory1#18-json)
+   - [Сериализация](readme/theory1#19-сериализация)
+   - [Context](readme/theory1#20-context)
+   - [Recover Panic](readme/theory1#21-recover-panic)
+   - [Немного про память](readme/theory1#22-немного-про-память)
+   - [Сборщик мусора](readme/theory1#23-сборщик-мусора)
+   - [Каналы и пайпы](readme/theory1#24-каналы-и-пайпы)
+   - [Docker](readme/theory1#25-docker)
 3. #### [Теория (надо знать)](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T2.md)
 
 4. #### [Задачи](#tasks)
