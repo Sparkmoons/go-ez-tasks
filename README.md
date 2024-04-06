@@ -37,7 +37,7 @@
    - [Сборщик мусора](readme/theory1#23-сборщик-мусора)
    - [Каналы и пайпы](readme/theory1#24-каналы-и-пайпы)
    - [Docker](readme/theory1#25-docker)
-3. #### [Теория (надо знать)](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T2.md)
+3. #### [Теория (надо знать)](readme/theory2)
 
 4. #### [Задачи](#tasks)
     1. [Задача на префикс.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/PREFIX.md)
