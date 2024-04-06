@@ -12,9 +12,10 @@
 
 
 1. #### [Теория (язык)](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T.md)
-2. #### [Теория (надо знать)](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T2.md)
+   - [Тред-Процессор](blob/main/readme/T#1)
+3. #### [Теория (надо знать)](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/T2.md)
 
-3. #### [Задачи](#tasks)
+4. #### [Задачи](#tasks)
     1. [Задача на префикс.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/PREFIX.md)
     2. [Проверка слова на палиндром.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/PALINDROM.md)
     3. [Проверка слайса на уникальность компонентов.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/UNIQUE.md)
