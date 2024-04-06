@@ -11,7 +11,7 @@
 
 
 
-1. #### [Теория (язык)](go_ez_tasks/blob/main/readme/T.md)
+1. #### [Теория (язык)](readme/T.md)
    - [Тред-Процессор-Горутина](go_ez_tasks/blob/main/readme/T#1.md)
    - Плюсы и минусы
    - Массив и слайс
