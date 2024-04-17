@@ -47,6 +47,8 @@
    - [Виды деплоя](readme/theory2#7-виды-деплоя)
    - [12FA](readme/theory2#8-12fa)
    - [Свойства архитектуры](readme/theory2#9-свойства-архитектуры)
+   - [Полезные аббревиатуры](readme/theory2#10-полезные-аббревиатуры)
+
 
 4. #### [Задачи](#tasks)
     1. [Задача на префикс.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/PREFIX.md)
