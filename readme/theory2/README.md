@@ -164,4 +164,22 @@ NAT (Network Address Translation) - переводит приватные адр
 
 13) (Проверяемость, Производительность, Безопасность, Требования, Данные, Допустимость, Масштабируемость)
 
+### 10. Полезные аббревиатуры
+
+API - Application Programming Interface (Интерфейс программирования приложения)
+Rest API - REpresentational State Transfer (Передача репрезентативного состояния)
+URL - Uniform Resource Locator (Единый указатель ресурса)
+CRUD - Create Read Update Delete (Создать, Почитать, Обновить, Удалить)
+KISS - Keep It Simple, Stupid (Будь проще)
+DRY - Don't Repeat Yourself (Не повторяйся)
+YAGNI - You Aren't Gonna Need It (Тебе это не понадобится)
+BDUF - Big Data Up Front (Глобальное проектирование прежде всего)
+APO - Avoid Premature Optimization (Избегайте преждевременной оптимизации)
+SOLID:
+ - Single-responsubulity principle (Принцип единственной ответственности)
+ - Open/closed principle (Принцип открытости/закрытости)
+ - Liskov substitution principle (Принцип подстановки Лисков)
+ - Interface segregation principle (Принцип разделения интерфейсов)
+ - Dependency inversion principle (Принцип инверсии зависимостей)
+
 
