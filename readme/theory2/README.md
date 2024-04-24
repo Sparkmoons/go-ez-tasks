@@ -166,6 +166,12 @@ NAT (Network Address Translation) - переводит приватные адр
 
 ### 10. Полезные аббревиатуры
 
+DHCP - Dynamic Host Configuration Protocol (Протокол динамической настройки узла)
+
+CSMA/CA - Carrier Sense Multiple Access with Collision Avoidance (Множественный доступ с прослушиванием несущей частоты и избежанием коллизий)
+
+CSMA/CD - Carrier Sense Multiple Access with Collision Detection (Множественный доступ с прослушиванием несущей частоты и обнаружением коллизий)
+
 API - Application Programming Interface (Интерфейс программирования приложения)
 
 Rest API - REpresentational State Transfer (Передача репрезентативного состояния)
