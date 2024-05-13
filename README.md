@@ -70,3 +70,4 @@
     17. [Разворот слов в строке.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/REVERSEWORD.md)
     18. [Нахождение цифрового корня числа.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/DROOT.md)
     19. [Поиск самой длинной уникальной подстроки.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/slide.md)
+    20. [Перенос чисел в конец слайса.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/moveNumb.md)
