@@ -69,3 +69,4 @@
     16. [Конвейер чисел.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/CONVEYER.md)
     17. [Разворот слов в строке.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/REVERSEWORD.md)
     18. [Нахождение цифрового корня числа.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/DROOT.md)
+    19. [Поиск самой длинной уникальной подстроки.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/slide.md)
