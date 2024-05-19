@@ -71,3 +71,4 @@
     18. [Нахождение цифрового корня числа.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/DROOT.md)
     19. [Поиск самой длинной уникальной подстроки.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/slide.md)
     20. [Перенос чисел в конец слайса.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/moveNumb.md)
+    21. [Сложение двоичных чисел.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/bin_sum.md)
