@@ -16,13 +16,15 @@ func addBinary(a string, b string) string {
             sum += int(a[i] - '0')
             i--
         }
+
         if j >= 0 {
             sum += int(b[j] - '0')
             j--
         }
-        sum += last
-        last = sum / 2
-        res = string(sum % 2 + '0') + res
+
+        sum += last                            //добавляем для учета переноса от предыдущей итерации
+        last = sum / 2                         //0 или 1, так как бинарные числа
+        res = string(sum % 2 + '0') + res      //sum%2 - текущая цифра результата, которая добавляется в начало строки
     }
     return res
 }
