@@ -15,7 +15,7 @@ func longest(s string) float64 {
 		c := s[right]
 		if !set[c] {
 			set[c] = true
-			answer = math.Max(float64(answer), float64(right-left+1))
+			answer = math.Max(answer, float64(right-left+1))
 			right++
 		} else {
 			for set[c] {
