@@ -55,11 +55,14 @@ func union(A, B []int) []int {
             break
         }
     }
-    
-    if i < len(A) {
-        res = append(res, A...)
-    } else if j < len(B) {
-        res = append(res, B...)
+
+    for i < len(A) {
+        res = append(res, A[i])
+        i++
+    } 
+    for j < len(B) {
+        res = append(res, B[j])
+        j++
     }
     return res
 }
