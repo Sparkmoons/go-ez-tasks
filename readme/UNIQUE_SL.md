@@ -40,6 +40,7 @@ func union(A, B []int) []int {
 
     i, j := 0, 0
     for {
+/* for i < len(A) && j < len(B) {*/
         if A[i] > B[j] {
             res = append(res, B[j])
             j++
@@ -51,8 +52,39 @@ func union(A, B []int) []int {
             i++
             j++
         }
-        if i >= len(A) || j >= len(B) {
+        if i >= len(A) || j >= len(B) { //выход из бесконечного цикла
             break
+        }
+    }
+
+    for i < len(A) {
+        res = append(res, A[i])
+        i++
+    } 
+    for j < len(B) {
+        res = append(res, B[j])
+        j++
+    }
+    return res
+}
+
+## Реализация №3 (Для отсортированных слайсов без бесконечного цикла)
+```go
+func union(A, B []int) []int {
+    res := make([]int, 0)
+
+    i, j := 0, 0
+    for i < len(A) && j < len(B) {
+        if A[i] > B[j] {
+            res = append(res, B[j])
+            j++
+        } else if A[i] < B[j] {
+            res = append(res, A[i])
+            i++
+        } else {
+            res = append(res, A[i])
+            i++
+            j++
         }
     }
 
