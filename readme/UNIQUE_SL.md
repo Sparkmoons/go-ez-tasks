@@ -40,7 +40,6 @@ func union(A, B []int) []int {
 
     i, j := 0, 0
     for {
-/* for i < len(A) && j < len(B) {*/
         if A[i] > B[j] {
             res = append(res, B[j])
             j++
