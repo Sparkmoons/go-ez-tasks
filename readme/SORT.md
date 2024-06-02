@@ -74,11 +74,13 @@ func Sort(a []int) []int {
 
 	sMin := Sort(min)
 	sMax := Sort(max)
+	/*
 	res = append(res, sMin...)
 	res = append(res, p)
 	res = append(res, sMax...)
+	*/
 
-	//res = append(append(sMin, p), sMax...)
+	res = append(append(sMin, p), sMax...)	//тоже самое, что три строки выше
 
 	return res
 }
