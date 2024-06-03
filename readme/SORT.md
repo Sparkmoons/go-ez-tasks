@@ -41,7 +41,7 @@ func Sort(a []int) []int{
   i := 1
   for i < len(a) {
     j := i
-      for j >= 1 && a[i] < a[i-1] {
+      for j >= 1 && a[j] < a[j-1] {
         a[j], a[j-1] = a[j-1], a[j]
         j--
       }
