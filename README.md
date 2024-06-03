@@ -59,7 +59,7 @@
     6. [Поиск числа в слайсе.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/FIND_NUMB.md)
     7. [Сортировка.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/SORT.md)
     8. [Вывод числа Фибоначчи.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/FIBNUM.md)
-    //9. [Вывод номера числа Фибоначчи.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/FIBNUMNUM.md)
+    <!--9. [Вывод номера числа Фибоначчи.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/FIBNUMNUM.md)-->
     10. [Вывод последовательности чисел Фибоначчи.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/FIBSEQ.md)
     11. [Вывод всех возможных комбинаций из букв.](https://github.com/Sparkmoons/go-ez-tasks/blob/main/readme/ALLCOMB.md)
     12. [Слияние n каналов в один.](https://github.com/Sparkmoons/go_ez_tasks/blob/main/readme/MERGE_CH.md)
