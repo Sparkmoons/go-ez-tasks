@@ -49,6 +49,7 @@
    - [Свойства архитектуры](readme/theory2#9-свойства-архитектуры)
    - [Полезные аббревиатуры](readme/theory2#10-полезные-аббревиатуры)
    - [Базы Данных](readme/theory2#11-базы-данных)
+   - [REST](readme/theory2#12-rest)
    - [Rabbit/Kafka/Nats]
 
 
